@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+hat happens when you initialize a repository? Why do you need to do it?
 	Git creates metadata to track the files within the repository.  To set up your location as part of version control.
 
 How is the staging area different from the working directory and repository?  What value do you think it offers?
