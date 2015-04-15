@@ -6,3 +6,12 @@ How is the staging area different from the working directory and repository?  Wh
 	directory is physical location of where your files are stored.  It shows the files that will be committed to the
 	repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	By using GIT commands diff and status to verify what files have been modified and have been staged for commit so 
+	you can verify that you only have one logical change per commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Adding new features or experimenting with code.  It allows you to make changes without affecting the current branch.
+
+
+
