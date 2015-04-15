@@ -5,3 +5,4 @@ How is the staging area different from the working directory and repository?  Wh
 	The staging area is a logical holding place for new files that can be committed to the repository while the working
 	directory is physical location of where your files are stored.  It shows the files that will be committed to the
 	repository.
+
