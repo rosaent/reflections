@@ -6,3 +6,11 @@ up-to-date with your remote repository?
 	You might not be ready for the changes to be included in your code. So you have control
 	of when you pull your code into your project.
  
+Describe the difference between forks, clones, and branches.  WHen would you use one instead of
+another?
+	A branch happens on a single repository.  A clone is a copy of a repository either on your
+	local machine or from Github. Forks are clones within GitHub.  You would use a branch in 
+	your local repository when you want to experiment or add new features and don't want to 
+	impact your current branch.  You would use a clone when you want to make a copy of a local
+	repository or a repository from GitHub. You would use a fork when you want to copy from one 
+	GitHub repository to another GitHub repository.  
