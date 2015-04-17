@@ -14,3 +14,8 @@ another?
 	impact your current branch.  You would use a clone when you want to make a copy of a local
 	repository or a repository from GitHub. You would use a fork when you want to copy from one 
 	GitHub repository to another GitHub repository.  
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	That way when you make updates, you are making updates to the latest version of the code
+	otherwise, you will get out of sync and could reintroduce problems that have already been
+	fixed.
